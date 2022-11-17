@@ -16,7 +16,7 @@ provider "aws" {
 
   default_tags {
     tags = {
-      owner      = "edson-aws"
+      owner      = "owner-aws"
       managed-by = "terraform"
 
     }
